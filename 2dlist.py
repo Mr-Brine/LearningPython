@@ -1,1 +1,1 @@
-new_list
+new_list = []
